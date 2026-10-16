@@ -25,7 +25,7 @@ bash de_novo_genome_assembly.sh <hifi_reads> <illumina_R1> <illumina_R2> <SAMPLE
 
 ## 输出结果
 {SAMPLE}.final_genome.fa：最终基因组；
-{SAMPLE}.assembly.log：全流程运行日志；
+{SAMPLE}.assembly.log：全流程运行日志。
 
 ## 注意事项
 genomeSize 需根据物种实际情况填写。
